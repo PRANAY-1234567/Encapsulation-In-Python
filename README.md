@@ -1,4 +1,6 @@
 📘 Python Program: Encapsulation Example (Bank Class)
+
+
 📌 Overview
 
 This Python program demonstrates Encapsulation, a key concept of Object-Oriented Programming (OOP).
