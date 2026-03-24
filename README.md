@@ -9,6 +9,8 @@ Encapsulation means hiding internal data and allowing access only through specif
 In this example, the bank balance is kept private and accessed using a method.
 
 ⚙️ Source Code
+
+
 class Bank:
     def __init__(self):
         self.__balance = 1000
