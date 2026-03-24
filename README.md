@@ -89,3 +89,5 @@ What encapsulation is
 How to use private variables
 How to control access to data using methods
 Why data hiding is important in real-world applications
+
+<img width="598" height="697" alt="image" src="https://github.com/user-attachments/assets/8d1a4df4-381f-4ac1-82cd-b2842d16d07f" />
