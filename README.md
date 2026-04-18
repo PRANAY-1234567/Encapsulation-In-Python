@@ -69,6 +69,7 @@ Trying to access the private variable directly will cause an error:
 
 print(b.__balance)   # ❌ Not allowed
 🚀 Improved Version (With Deposit Method)
+
 class Bank:
     def __init__(self):
         self.__balance = 1000
