@@ -5,5 +5,6 @@ class Bank:
     def show_balance(self):
         print("Balance is", self.__balance)
 
+
 b = Bank()
 b.show_balance()
