@@ -23,7 +23,6 @@ b.show_balance()
 
 🧠 How It Works
 
-
 1️⃣ Create a Class
 class Bank:
 Defines a class named Bank.
